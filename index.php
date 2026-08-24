@@ -1,6 +1,13 @@
 <!DOCTYPE html>
 <html lang="en-US">
 <head>
+  <!-- Privacy-friendly analytics by Plausible -->
+<script async src="https://plausible.io/js/pa-DakOCRmn1-i_TEEjDufQH.js"></script>
+<script>
+  window.plausible=window.plausible||function(){(plausible.q=plausible.q||[]).push(arguments)},plausible.init=plausible.init||function(i){plausible.o=i||{}};
+  plausible.init()
+</script>
+
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Embervine | Field to Fire Dining in Asheville, Charleston &amp; Nashville</title>
