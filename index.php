@@ -5,13 +5,13 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Embervine | Field to Fire Dining in Asheville, Charleston &amp; Nashville</title>
 <meta name="description" content="Embervine cooks what grows within twelve miles of the back door. Sit down, order takeout, book the private room, or send a gift card. Three Southeastern rooms, every price in plain USD, nothing added at the end.">
-<link rel="canonical" href="https://www.embervine.com/index.html">
+<link rel="canonical" href="https://www.embervine.us/index.html">
 
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="Embervine">
 <meta property="og:title" content="Embervine | Twelve Miles, Field to Fire">
 <meta property="og:description" content="Three rooms in the American Southeast cooking whatever the growers pulled from the ground that week. Book a table, order takeout, or take the private dining room.">
-<meta property="og:url" content="https://www.embervine.com/index.html">
+<meta property="og:url" content="https://www.embervine.us/index.html">
 <meta property="og:image" content="https://images.unsplash.com/photo-1498837167922-ddd27525d352?auto=format&amp;fit=crop&amp;w=1200&amp;q=70">
 <meta name="twitter:card" content="summary_large_image">
 
@@ -25,15 +25,15 @@
 {
   "@context": "https://schema.org",
   "@type": "Restaurant",
-  "@id": "https://www.embervine.com/#restaurant",
+  "@id": "https://www.embervine.us/#restaurant",
   "name": "Embervine",
   "description": "Field to fire restaurant group cooking what grows within twelve miles of each kitchen. Dining room, takeout, catering, private events and gift cards.",
-  "url": "https://www.embervine.com/",
+  "url": "https://www.embervine.us/",
   "telephone": "+1-828-555-0142",
-  "email": "hello@embervine.com",
+  "email": "hello@embervine.us",
   "servesCuisine": ["American", "Southern", "Farm to Table"],
   "priceRange": "$$-$$$",
-  "acceptsReservations": "https://www.embervine.com/reservations.html",
+  "acceptsReservations": "https://www.embervine.us/reservations.html",
   "image": "https://images.unsplash.com/photo-1498837167922-ddd27525d352?auto=format&fit=crop&w=1200&q=70",
   "address": {
     "@type": "PostalAddress",
@@ -48,7 +48,7 @@
     { "@type": "OpeningHoursSpecification", "dayOfWeek": ["Friday","Saturday"], "opens": "11:30", "closes": "22:00" },
     { "@type": "OpeningHoursSpecification", "dayOfWeek": ["Sunday"], "opens": "10:00", "closes": "20:00" }
   ],
-  "hasMenu": "https://www.embervine.com/menu.html",
+  "hasMenu": "https://www.embervine.us/menu.html",
   "sameAs": ["https://www.instagram.com/embervine", "https://www.facebook.com/embervine"]
 }
 </script>
@@ -503,7 +503,7 @@
           42 Biltmore Avenue<br>
           Asheville, NC 28801, United States<br>
           <a href="tel:+18285550142">+1 (828) 555-0142</a><br>
-          <a href="mailto:hello@embervine.com">hello@embervine.com</a>
+          <a href="mailto:hello@embervine.us">hello@embervine.us</a>
         </address>
       </div>
 
